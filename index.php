@@ -113,7 +113,8 @@ for($i = 0; $i < count($waitingTimes); $i++) {
     <meta name="description" content="">
     <meta name="author" content="">
     <title>EP</title>
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+   <!-- <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">-->
+   <script src = "https://cdnjs.cloudflare.com/ajax/libs/framework7/1.4.2/css/framework7.material.min.css"></script> 
     <style>
    	body {
       	background-color: #112942;
