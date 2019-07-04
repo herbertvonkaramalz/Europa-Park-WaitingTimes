@@ -157,7 +157,7 @@ for($i = 0; $i < count($waitingTimes); $i++) {
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
   <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
-      <span class="mdl-layout-title">Akutelle artezeiten</span>
+      <span class="mdl-layout-title">Aktuelle Wartezeiten</span>
     </div>
   </header>
   <main class="mdl-layout__content">
